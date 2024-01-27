@@ -6,15 +6,14 @@ import githubIcon from '../../assets/github.png'
 import whatsapp from '../../assets/whatsapp_3665204.png'
 import telegram from '../../assets/Telegram.png'
 import behance from '../../assets/behance_3665240.png'
-import instagramIcon from '../../assets/insta.png'
 // import discordIcon from '../../assets/discord.png'
 
 export function Footer() {
   return (
     <Container className="footer">
       <a href="#" className="logo">
-        <span>rajapandian</span>
-        <span>.in</span>
+        <span>Personal</span>
+        <span> Portfolio</span>
       </a>
       <div>
         <p>
@@ -59,13 +58,7 @@ export function Footer() {
         >
           <img src={telegram} alt="telegram" />
         </a>
-        <a
-          href="https://www.instagram.com/rajapandian.27"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img src={instagramIcon} alt="Instagram" />
-        </a>
+        
      
       </div>
     </Container>
