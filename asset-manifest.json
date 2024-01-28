@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rajapandian27/static/css/main.039bf95e.css",
-    "main.js": "/rajapandian27/static/js/main.85bd4834.js",
+    "main.js": "/rajapandian27/static/js/main.f33d2f09.js",
     "static/media/banner5.png": "/rajapandian27/static/media/banner5.ebdc2a2f1d3ece262bad.png",
     "static/media/Profile.png": "/rajapandian27/static/media/Profile.10f68b75b70226122a6c.png",
     "static/media/Hello.gif": "/rajapandian27/static/media/Hello.d93720933c608f6178fb.gif",
@@ -17,15 +17,12 @@
     "static/media/react-icon.svg": "/rajapandian27/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
     "index.html": "/rajapandian27/index.html",
     "static/media/external-link.svg": "/rajapandian27/static/media/external-link.74ce2401d684101cc83125c6dac8ce9c.svg",
-    "static/media/html-icon.svg": "/rajapandian27/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
-    "static/media/wordpress.svg": "/rajapandian27/static/media/wordpress.3bcdd91b50514041e84ea420c14b4812.svg",
     "static/media/css-icon.svg": "/rajapandian27/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
-    "static/media/js-icon.svg": "/rajapandian27/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "main.039bf95e.css.map": "/rajapandian27/static/css/main.039bf95e.css.map",
-    "main.85bd4834.js.map": "/rajapandian27/static/js/main.85bd4834.js.map"
+    "main.f33d2f09.js.map": "/rajapandian27/static/js/main.f33d2f09.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.85bd4834.js"
+    "static/js/main.f33d2f09.js"
   ]
 }
