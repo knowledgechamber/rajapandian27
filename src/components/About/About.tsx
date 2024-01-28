@@ -24,7 +24,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-          Greetings, I'm Rajapandian, a creative professional deeply passionate about transforming ideas into captivating user experiences through UI/UX and graphic design. 
+          I'm currently pursuing my Final year in B.E. Computer Science Engineering at Nadar Saraswathi College of Engineering and Technology. I have a strong passion for UI/UX designing and front-end development, along with expertise in Bootstrap and Figma. I believe in creating visually appealing and user-friendly websites that provide a seamless experience. Feel free to explore my portfolio to view my resume and projects
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
@@ -33,8 +33,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>
-          Notably, I've successfully cloned real-time applications using Figma, showcasing my ability to bring ideas to life in a virtual space. You can explore these designs in the dedicated project section of my portfolio. With advanced proficiency in Bootstrap Studio, I specialize in creating visually striking and responsive websites. Complementing this, my intermediate knowledge in HTML, CSS, JavaScript, React Js, and Angular allows me to infuse interactivity and dynamic elements into web projects. I extend an invitation to delve into my portfolio, where each project reflects a unique journey of creativity and innovation. Experience firsthand the world I've meticulously crafted through my design endeavors.
-Feel free to reach out if you have any specific inquiries or if there's a particular aspect you'd like to explore further!</p>
+          </p>
 
         </ScrollAnimation>
 
