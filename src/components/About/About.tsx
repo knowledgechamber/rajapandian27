@@ -1,9 +1,14 @@
 import { Container } from "./styles";
 import VinayakSingh from "../../assets/banner5.png";
-import wordpress from "../../assets/wordpress.svg";
-import htmlIcon from "../../assets/html-icon.svg";
+import wordpress from "../../assets/wordpress.png";
+import htmlIcon from "../../assets/html5.png";
 import cssIcon from "../../assets/css-icon.svg";
-import jsIcon from "../../assets/js-icon.svg";
+import jsIcon from "../../assets/js1.png";
+import figma from "../../assets/figma.png";
+import illustrator from "../../assets/Ai.png";
+import XD from "../../assets/XD.png";
+import java from "../../assets/java.png";
+import photoshop from "../../assets/Ps.png";
 import reactIcon from "../../assets/react-icon.svg";
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
 import ScrollAnimation from "react-animate-on-scroll";
@@ -44,18 +49,30 @@ export function About() {
         </ScrollAnimation>
         <div className="hard-skills">
 
+        <div className="hability">
+            <ScrollAnimation animateIn="fadeInUp" delay={0.10 * 1000}>
+              <img src={figma} alt="Wordpress" />
+            </ScrollAnimation>
+          </div>
+
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.10 * 1000}>
-              <img src={wordpress} alt="Wordpress" />
+              <img src={XD} alt="Wordpress" />
             </ScrollAnimation>
           </div>
-          
+
           <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.13 * 1000}>
-              <img src={reactIcon} alt="React" />
+            <ScrollAnimation animateIn="fadeInUp" delay={0.10 * 1000}>
+              <img src={photoshop} alt="Wordpress" />
             </ScrollAnimation>
           </div>
-          
+
+          <div className="hability">
+            <ScrollAnimation animateIn="fadeInUp" delay={0.10 * 1000}>
+              <img src={illustrator} alt="Wordpress" />
+            </ScrollAnimation>
+          </div>
+
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.17 * 1000}>
               <img src={htmlIcon} alt="Html" />
@@ -73,11 +90,31 @@ export function About() {
               <img src={boostrapIcon} alt="bootstrap" />
             </ScrollAnimation>
           </div>
+
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.19 * 1000}>
               <img src={jsIcon} alt="JavaScript" />
             </ScrollAnimation>
           </div>
+
+          <div className="hability">
+            <ScrollAnimation animateIn="fadeInUp" delay={0.10 * 1000}>
+              <img src={java} alt="Wordpress" />
+            </ScrollAnimation>
+          </div>
+
+          <div className="hability">
+            <ScrollAnimation animateIn="fadeInUp" delay={0.10 * 1000}>
+              <img src={wordpress} alt="Wordpress" />
+            </ScrollAnimation>
+          </div>
+          
+          <div className="hability">
+            <ScrollAnimation animateIn="fadeInUp" delay={0.13 * 1000}>
+              <img src={reactIcon} alt="React" />
+            </ScrollAnimation>
+          </div>
+          
         </div>
       </div>
       
