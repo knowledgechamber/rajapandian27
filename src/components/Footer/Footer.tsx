@@ -18,7 +18,7 @@ export function Footer() {
       </a>
       <div>
         <p>
-          Designed & Developed by  <img src={favicon} alt="React" />
+          With Regards <img src={favicon} alt="React" />
           {/* <span>❤️</span> */}
         </p>
       </div>
