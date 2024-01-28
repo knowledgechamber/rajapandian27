@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/rajapandian27/static/css/main.039bf95e.css",
+    "main.js": "/rajapandian27/static/js/main.1e38bbe9.js",
+    "static/media/banner5.png": "/rajapandian27/static/media/banner5.ebdc2a2f1d3ece262bad.png",
+    "static/media/Profile.png": "/rajapandian27/static/media/Profile.10f68b75b70226122a6c.png",
+    "static/media/Hello.gif": "/rajapandian27/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/Resume - Rajapandian P.pdf": "/rajapandian27/static/media/Resume - Rajapandian P.4d99085f2d84a2eac3c5.pdf",
+    "static/media/whatsapp_3665204.png": "/rajapandian27/static/media/whatsapp_3665204.3997623b64161bd61e04.png",
+    "static/media/behance_3665240.png": "/rajapandian27/static/media/behance_3665240.fe9bffa09d3a2021ee56.png",
+    "static/media/linkedin_3665214.png": "/rajapandian27/static/media/linkedin_3665214.095044eabc7bb2c1d794.png",
+    "static/media/XD.png": "/rajapandian27/static/media/XD.aae044bd78f1cc158453.png",
+    "static/media/java.png": "/rajapandian27/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/figma.png": "/rajapandian27/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/ph2.png": "/rajapandian27/static/media/ph2.4b898e26eea748092417.png",
+    "static/media/bootstrap-icon.svg": "/rajapandian27/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
+    "static/media/react-icon.svg": "/rajapandian27/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "index.html": "/rajapandian27/index.html",
+    "static/media/external-link.svg": "/rajapandian27/static/media/external-link.74ce2401d684101cc83125c6dac8ce9c.svg",
+    "static/media/html-icon.svg": "/rajapandian27/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/wordpress.svg": "/rajapandian27/static/media/wordpress.3bcdd91b50514041e84ea420c14b4812.svg",
+    "static/media/css-icon.svg": "/rajapandian27/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
+    "static/media/js-icon.svg": "/rajapandian27/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "main.039bf95e.css.map": "/rajapandian27/static/css/main.039bf95e.css.map",
+    "main.1e38bbe9.js.map": "/rajapandian27/static/js/main.1e38bbe9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.1e38bbe9.js"
+  ]
+}
