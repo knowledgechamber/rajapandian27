@@ -165,6 +165,16 @@ export function Main() {
                   "height": 20
                 },
                 {
+                  "src": figma,
+                  "width": 20,
+                  "height": 20
+                },
+                {
+                  "src": figma,
+                  "width": 20,
+                  "height": 20
+                },
+                {
                   "src": XD,
                   "width": 20,
                   "height": 20

@@ -15,7 +15,7 @@ export const Container = styled.footer`
   }
 
   p{
-    letter-spacing: 0.2rem;
+    letter-spacing: 0.3rem;
     display: flex;
     align-items: center;
     gap: 0.5rem;
@@ -28,11 +28,13 @@ export const Container = styled.footer`
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 1rem;
+    gap: 3rem;
+    
 
     img,span{
       font-size: 3rem;
       width: 3rem;
+      
     }
   }
 

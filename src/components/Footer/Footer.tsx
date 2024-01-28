@@ -1,6 +1,7 @@
 import { Container } from './styles'
 
 import reactIcon from '../../assets/react-icon.svg'
+import favicon from '../../assets/favicon.png'
 import linkedin from '../../assets/linkedin_3665214.png'
 import githubIcon from '../../assets/github.png'
 import whatsapp from '../../assets/whatsapp_3665204.png'
@@ -12,12 +13,12 @@ export function Footer() {
   return (
     <Container className="footer">
       <a href="#" className="logo">
-        <span>Personal</span>
-        <span> Portfolio</span>
+        <span>Thanks  for</span>
+        <span> visiting my site</span>
       </a>
       <div>
         <p>
-          This Website was made with <img src={reactIcon} alt="React" />
+          Designed & Developed by  <img src={favicon} alt="React" />
           {/* <span>❤️</span> */}
         </p>
       </div>
