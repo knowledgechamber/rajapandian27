@@ -2,7 +2,9 @@ import { Container } from "./styles";
 // import githubIcon from "../../assets/github.svg"
 // import DownloadApp from '../../assets/download.png'
 import externalLink from "../../assets/external-link.svg"
+import Designpng from "../../assets/Real estate site.png"
 import ScrollAnimation from "react-animate-on-scroll";
+import behance from "../../assets/behance_3665240.png"
 
 
 export function Project() {
@@ -211,6 +213,39 @@ export function Project() {
        
 
       </div>
+
+<br></br>
+<br></br>
+
+      <h2>Design Projects</h2>
+
+      <div className="projects">
+
+      <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <div className="project-links">
+                  <img className="designimg" src={Designpng} alt="Visit site" />
+              </div>
+            </header>
+            <div className="body">
+              
+              <a href="https://www.behance.net/rajapandian27" target="_blank" rel="noreferrer">
+              <h3>Real Estate Website Design</h3>
+              </a>
+              
+            </div>
+            <footer>
+              <ul className="tech-list">
+              <li>Ui of the Site</li>  
+              </ul>
+              
+            </footer>
+          </div>
+        </ScrollAnimation>
+
+      </div>
+
     </Container>
   );
 }

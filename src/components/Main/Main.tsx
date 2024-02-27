@@ -7,6 +7,7 @@ import { Project } from "../Project/Project";
 
 
 
+
 import wordpress from "../../assets/wordpress.png";
 import figma from "../../assets/figma.png";
 import android from "../../assets/Android.png";
@@ -275,6 +276,7 @@ export function Main() {
       <Hero></Hero>
       <About></About>
       <Project></Project>
+
       <Contact></Contact>
     </Container>
   );

@@ -20,10 +20,10 @@ export function Hero() {
           <h1>RAJAPANDIAN</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Ui/Ux & Graphic Designer</h3>
+          <h3>Fresher</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">Fresher</p>
+          <p className="small-resume"></p>
         </ScrollAnimation>
 
 

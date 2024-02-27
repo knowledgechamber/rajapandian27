@@ -9,6 +9,10 @@ export const Container = styled.section`
     font-size: 4rem;
     margin-bottom: 3rem;
   }
+
+  h3{
+    color: white;
+  }
   .projects{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -42,9 +46,14 @@ export const Container = styled.section`
           align-items: center;
           gap: 1rem;
         }
+        img {
+          width: 50.0rem;
+        }
+
         a > img {
           width: 5.0rem;
         }
+        
       }
       
       h3{
@@ -64,6 +73,8 @@ export const Container = styled.section`
         }
       }
 
+      
+
       footer{
         margin-top: auto;
         .tech-list{
@@ -73,6 +84,23 @@ export const Container = styled.section`
           font-size: 1.4rem;
           opacity: 0.6;
         }
+
+        .tech-list{
+          display: flex;
+          align-items: center;
+          gap: 1rem;
+
+          a > img {
+            width: 5.0rem;
+          }
+
+          h3 {
+            font-color: green;
+          }
+        }
+        
+
+       
       }
 
     }
