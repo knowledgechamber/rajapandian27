@@ -225,6 +225,8 @@ export function Project() {
         These Projects are Showcased in Behance and the Behance Profile Url is linked with the Project Title.
       </p>
 
+      <br></br>
+
       <div className="projects">
 
 
