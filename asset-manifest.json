@@ -1,12 +1,16 @@
 {
   "files": {
     "main.css": "/rajapandian27/static/css/main.039bf95e.css",
-    "main.js": "/rajapandian27/static/js/main.85a8d96f.js",
+    "main.js": "/rajapandian27/static/js/main.5c7fbca2.js",
     "static/media/banner5.png": "/rajapandian27/static/media/banner5.ebdc2a2f1d3ece262bad.png",
     "static/media/Profile.png": "/rajapandian27/static/media/Profile.10f68b75b70226122a6c.png",
     "static/media/Real estate site.png": "/rajapandian27/static/media/Real estate site.7a9aa9a49579b3d72592.png",
     "static/media/Hello.gif": "/rajapandian27/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/Resume - Rajapandian P.pdf": "/rajapandian27/static/media/Resume - Rajapandian P.4d99085f2d84a2eac3c5.pdf",
+    "static/media/flipkart.png": "/rajapandian27/static/media/flipkart.c6fc01898a8ef1762359.png",
+    "static/media/wh lap.png": "/rajapandian27/static/media/wh lap.3c73dbe8c5095961141f.png",
+    "static/media/instamob.png": "/rajapandian27/static/media/instamob.02dc2e30b9cc6702cc37.png",
+    "static/media/mobwh.png": "/rajapandian27/static/media/mobwh.f525a8d20a09dade7d28.png",
     "static/media/whatsapp_3665204.png": "/rajapandian27/static/media/whatsapp_3665204.3997623b64161bd61e04.png",
     "static/media/behance_3665240.png": "/rajapandian27/static/media/behance_3665240.fe9bffa09d3a2021ee56.png",
     "static/media/linkedin_3665214.png": "/rajapandian27/static/media/linkedin_3665214.095044eabc7bb2c1d794.png",
@@ -21,10 +25,10 @@
     "static/media/external-link.svg": "/rajapandian27/static/media/external-link.8ce0d189635b118259ec51d8c9b4a1d0.svg",
     "static/media/css-icon.svg": "/rajapandian27/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
     "main.039bf95e.css.map": "/rajapandian27/static/css/main.039bf95e.css.map",
-    "main.85a8d96f.js.map": "/rajapandian27/static/js/main.85a8d96f.js.map"
+    "main.5c7fbca2.js.map": "/rajapandian27/static/js/main.5c7fbca2.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.85a8d96f.js"
+    "static/js/main.5c7fbca2.js"
   ]
 }
