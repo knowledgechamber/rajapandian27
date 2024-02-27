@@ -3,8 +3,11 @@ import { Container } from "./styles";
 // import DownloadApp from '../../assets/download.png'
 import externalLink from "../../assets/external-link.svg"
 import Designpng from "../../assets/Real estate site.png"
+import mobinsta from "../../assets/instamob.png"
+import whlap from "../../assets/wh lap.png"
+import mobwh from "../../assets/mobwh.png"
+import flipkart from "../../assets/flipkart.png"
 import ScrollAnimation from "react-animate-on-scroll";
-import behance from "../../assets/behance_3665240.png"
 
 
 export function Project() {
@@ -44,7 +47,7 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://madewithluv.in/" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Rajapandi-2713" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
@@ -68,7 +71,7 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://justmedicalbooks.com/" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Rajapandi-2713" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
@@ -93,7 +96,7 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://www.smartcornersproperties.com/" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Rajapandi-2713" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
@@ -116,7 +119,7 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://drrohitdamor.com" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Rajapandi-2713" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
@@ -221,6 +224,111 @@ export function Project() {
 
       <div className="projects">
 
+
+      <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <div className="project-links">
+                  <img className="designimg" src={flipkart} alt="Visit site" />
+              </div>
+            </header>
+            <div className="body">
+              
+              <a href="https://www.behance.net/rajapandian27" target="_blank" rel="noreferrer">
+              <h3>Flipkart Ui</h3>
+              </a>
+              
+            </div>
+            <footer>
+              <ul className="tech-list">
+              <li>Ui Clone of the Flipkart</li>  
+              </ul>
+              
+            </footer>
+          </div>
+        </ScrollAnimation>
+
+
+
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <div className="project-links">
+                  <img className="designimg" src={mobwh} alt="Visit site" />
+              </div>
+            </header>
+            <div className="body">
+              
+              <a href="https://www.behance.net/rajapandian27" target="_blank" rel="noreferrer">
+              <h3>WhatsApp Mobile Ui</h3>
+              </a>
+              
+            </div>
+            <footer>
+              <ul className="tech-list">
+              <li>Clone of WhatsApp Mobile Application</li>  
+              </ul>
+              
+            </footer>
+          </div>
+        </ScrollAnimation>
+
+
+
+
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <div className="project-links">
+                  <img className="designimg" src={whlap} alt="Visit site" />
+              </div>
+            </header>
+            <div className="body">
+              
+              <a href="https://www.behance.net/rajapandian27" target="_blank" rel="noreferrer">
+              <h3>WhatsApp Desktop Ui</h3>
+              </a>
+              
+            </div>
+            <footer>
+              <ul className="tech-list">
+              <li>Clone of WhatsApp Desktop Ui</li>  
+              </ul>
+              
+            </footer>
+          </div>
+        </ScrollAnimation>
+
+
+
+
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <div className="project-links">
+                  <img className="designimg" src={mobinsta} alt="Visit site" />
+              </div>
+            </header>
+            <div className="body">
+              
+              <a href="https://www.behance.net/rajapandian27" target="_blank" rel="noreferrer">
+              <h3>Instagram Mobile Ui</h3>
+              </a>
+              
+            </div>
+            <footer>
+              <ul className="tech-list">
+              <li>Ui Clone of Instagram Application</li>  
+              </ul>
+              
+            </footer>
+          </div>
+        </ScrollAnimation>
+
+
+
+      
+      
       <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
