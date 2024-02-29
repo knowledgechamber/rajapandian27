@@ -7,6 +7,7 @@ import mobinsta from "../../assets/instamob.png"
 import whlap from "../../assets/wh lap.png"
 import mobwh from "../../assets/mobwh.png"
 import flipkart from "../../assets/flipkart.png"
+import portfolio from "../../assets/Portfolio.png"
 import ScrollAnimation from "react-animate-on-scroll";
 
 
@@ -334,7 +335,7 @@ export function Project() {
 
       
       
-      <ScrollAnimation animateIn="flipInX">
+        <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
               <div className="project-links">
@@ -351,6 +352,30 @@ export function Project() {
             <footer>
               <ul className="tech-list">
               <li>Ui of the Site</li>  
+              </ul>
+              
+            </footer>
+          </div>
+        </ScrollAnimation>
+
+
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <div className="project-links">
+                  <img className="designimg" src={portfolio} alt="Visit site" />
+              </div>
+            </header>
+            <div className="body">
+              
+              <a href="https://www.behance.net/rajapandian27" target="_blank" rel="noreferrer">
+              <h3>Personal Portfolio Website Design</h3>
+              </a>
+              
+            </div>
+            <footer>
+              <ul className="tech-list">
+              <li>Ui of Personal Portfolio</li>  
               </ul>
               
             </footer>
