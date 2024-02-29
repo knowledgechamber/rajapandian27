@@ -231,30 +231,6 @@ export function Project() {
       <div className="projects">
 
 
-      <ScrollAnimation animateIn="flipInX">
-          <div className="project">
-            <header>
-              <div className="project-links">
-                  <img className="designimg" src={flipkart} alt="Visit site" />
-              </div>
-            </header>
-            <div className="body">
-              
-              <a href="https://www.behance.net/rajapandian27" target="_blank" rel="noreferrer">
-              <h3>Flipkart Ui</h3>
-              </a>
-              
-            </div>
-            <footer>
-              <ul className="tech-list">
-              <li>Ui Clone of the Flipkart</li>  
-              </ul>
-              
-            </footer>
-          </div>
-        </ScrollAnimation>
-
-
 
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
@@ -278,33 +254,6 @@ export function Project() {
             </footer>
           </div>
         </ScrollAnimation>
-
-
-
-
-        <ScrollAnimation animateIn="flipInX">
-          <div className="project">
-            <header>
-              <div className="project-links">
-                  <img className="designimg" src={whlap} alt="Visit site" />
-              </div>
-            </header>
-            <div className="body">
-              
-              <a href="https://www.behance.net/rajapandian27" target="_blank" rel="noreferrer">
-              <h3>WhatsApp Desktop Ui</h3>
-              </a>
-              
-            </div>
-            <footer>
-              <ul className="tech-list">
-              <li>Clone of WhatsApp Desktop Ui</li>  
-              </ul>
-              
-            </footer>
-          </div>
-        </ScrollAnimation>
-
 
 
 
@@ -333,7 +282,55 @@ export function Project() {
 
 
 
-      
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <div className="project-links">
+                  <img className="designimg" src={flipkart} alt="Visit site" />
+              </div>
+            </header>
+            <div className="body">
+              
+              <a href="https://www.behance.net/rajapandian27" target="_blank" rel="noreferrer">
+              <h3>Flipkart Ui</h3>
+              </a>
+              
+            </div>
+            <footer>
+              <ul className="tech-list">
+              <li>Ui Clone of the Flipkart</li>  
+              </ul>
+              
+            </footer>
+          </div>
+        </ScrollAnimation>
+
+
+
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <div className="project-links">
+                  <img className="designimg" src={whlap} alt="Visit site" />
+              </div>
+            </header>
+            <div className="body">
+              
+              <a href="https://www.behance.net/rajapandian27" target="_blank" rel="noreferrer">
+              <h3>WhatsApp Desktop Ui</h3>
+              </a>
+              
+            </div>
+            <footer>
+              <ul className="tech-list">
+              <li>Clone of WhatsApp Desktop Ui</li>  
+              </ul>
+              
+            </footer>
+          </div>
+        </ScrollAnimation>
+
+
       
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
